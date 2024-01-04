@@ -2,6 +2,12 @@
 
 Based on LLVM toolchain, generating eZ80 ADL code and fasmg eZ80 assembler and linker.
 
+## Add'l Changes
+github.com/kristofer adding some more test programs, working on getting t3x ported to MOS.
+see `https://t3x.org` and `https://t3x.org/t3x/0/book.html`
+
+
+
 ### Installation
 
 Install the CE Toolchain - see [getting started]([Getting Started — CE C/C++ Toolchain documentation](https://ce-programming.github.io/toolchain/static/getting-started.html)) page. The tool-chain can be installed on Windows, Linux or MacOS. Follow the instructions to complete the install, and test that the toolchain works by compiling some of the examples for the TI calculator.
